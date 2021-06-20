@@ -77,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "becbot.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -95,16 +95,16 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#57CC99"
-navbar-text-col: "#404040"
+navbar-col: "#03634A"
+navbar-text-col: "#000000"
 navbar-border-col: "#DDDDDD"
-page-col: "#C7F9CC"
-text-col: "#404040"
-link-col: "#80ED99"
-hover-col: "#38A3A5"
-footer-col: "57CC99"
-footer-text-col: "#38A3A5"
-footer-link-col: "#22577A"
+page-col: "#FFFFFF"
+text-col: "#000000"
+link-col: "#8B939C"
+hover-col: "#AAD922"
+footer-col: "#03634A"
+footer-text-col: "#000000"
+footer-link-col: "#AAD922"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
