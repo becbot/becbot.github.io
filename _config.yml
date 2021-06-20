@@ -14,7 +14,6 @@ author: Rebecca Stower
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
   Publications: "publications"
   Contact: "contact"
 
