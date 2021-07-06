@@ -5,7 +5,7 @@ subtitle: Here you can find a list of my research publications
 
 # Journal Articles
 **Stower, R\*.**, Calvo, N\*., Castellano, G., & Kappas, A (2021) A Meta-Analysis on Children’s Trust in Social Robots, International Journal of Social Robotics. <a href="https://link.springer.com/article/10.1007/s12369-020-00736-8">10.1007/s12369-020-00736-8</a> 
-\* Both authors contributed equally
+<br> \* Both authors contributed equally
 
 **Stower, R.**, Lee, A.J., McIntosh, T.L. et al. (2020), Mating Strategies and the Masculinity Paradox: How Relationship Context, Relationship Status, and Sociosexuality Shape Women’s Preferences for Facial Masculinity and Beardedness. Archives of Sexual Behaviour 49, 809–820 (2020). <a href="https://doi.org/10.1007/s10508-019-1437-2">10.1007/s10508-019-1437-2</a>  
 
