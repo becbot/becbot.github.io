@@ -16,7 +16,9 @@ author: Rebecca Stower
 navbar-links:
   Publications: "publications"
   Media: "media"
-  Workshops: "workshops"
+  Workshops:
+  - HRI'21: "https://child-robot-interaction.github.io/"
+  - RO-MAN'21: "http://cs.umanitoba.ca/~umgeiskk/"
   CV: "cv"
   #Contact: "contact"
 
