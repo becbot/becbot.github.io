@@ -17,8 +17,8 @@ navbar-links:
   Publications: "publications"
   Media: "media"
   Workshops:
-  - HRI'21: "https://child-robot-interaction.github.io/"
-  - RO-MAN'21: "http://cs.umanitoba.ca/~umgeiskk/"
+  - HRI'21: "<a href="https://child-robot-interaction.github.io/"></a>"
+  - RO-MAN'21: "<a href="http://cs.umanitoba.ca/~umgeiskk/"></a>"
   CV: "cv"
   #Contact: "contact"
 
