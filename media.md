@@ -6,7 +6,7 @@ title: Media Engagments
 
 ### PyLadies Hamburg: Robots and Psychology, where do they meet?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AA573F7yBFE?start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="float: center" width="560" height="315" src="https://www.youtube.com/embed/AA573F7yBFE?start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 # Conference Presentations (available online)
 
