@@ -19,8 +19,10 @@ title: Media Engagments
 
 # Interviews
 
-Radio interview with Deutschlandfunk \hyperlink{https://www.deutschlandfunk.de/dlf-audio-archiv.2386.de.html?drau:broadcast_id=191 "Roboter an Schulen erst in der Forschung"
+Radio interview with Deutschlandfunk <a href="https://www.deutschlandfunk.de/dlf-audio-archiv.2386.de.html?drau:broadcast_id=191">Roboter an Schulen erst in der Forschung</a>
 
 # Press Releases
 
-Press Release with Informationsdienst Wissenschaft (idw) \hyperlink{https://idw-online.de/en/news766410}{\emph{"Researchers at Jacobs University examine children’s trust in social robots"
+Press Release with Informationsdienst Wissenschaft (idw) 
+<a href="https://idw-online.de/en/news766410">Researchers at Jacobs University examine children’s trust in social robots</a>
+
