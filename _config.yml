@@ -15,7 +15,7 @@ author: Rebecca Stower
 
 navbar-links:
   Publications: "publications"
-  Contact: "contact"
+  #Contact: "contact"
 
 
 # --- Logo --- #
