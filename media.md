@@ -6,16 +6,17 @@ title: Media Engagments
 
 ### PyLadies Hamburg: Robots and Psychology, where do they meet?
 
+<p style="text-align:center;">
 <iframe style="float: center" width="560" height="315" src="https://www.youtube.com/embed/AA573F7yBFE?start=195" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 # Conference Presentations (available online)
 
 ### ACM Interaction Design & Children (IDC) Conference 2021, *Work in Progress Paper*
 
+<p style="text-align:center;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/azfNuswcuSQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### ROMAN 2020
-
+</p>
 
 # Interviews
 
