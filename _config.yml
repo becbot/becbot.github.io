@@ -19,6 +19,9 @@ navbar-links:
   Workshops:
   - HRI'21: "https://child-robot-interaction.github.io/"
   - RO-MAN'21: "http://cs.umanitoba.ca/~umgeiskk/"
+  Projects:
+  - CozmoNAOts: "cozmonaots"
+  - STiRO: "stiro"
   PsyBots: "https://psybots.github.io/" 
   CV: "cv"
   #Contact: "contact"
