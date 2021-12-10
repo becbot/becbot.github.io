@@ -2,6 +2,7 @@
 title: Selective Trust in Robots (STiRO)
 subtitle: 
 ---
+Rebecca Stower, Arvid Kappas & Kristyn Sommer
 
 # Abstract
 
