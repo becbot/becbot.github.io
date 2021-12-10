@@ -11,11 +11,13 @@ Social robots embody many different social behaviours which distinguish them fro
 # Paradigm
 ## History Phase
 <img style="padding-bottom:25px" src="/assets/img/history.gif"
-     width = "500"/>
+     width = "500"
+     class="center"/>
 
 ## Test Phase
 <img style="padding-bottom:25px" src="/assets/img/test.gif"
-     width = "500"/>
+     width = "500"
+     class="center"/>
 
 # Poster
 <p style="text-align:center;">
