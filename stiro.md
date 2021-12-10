@@ -10,7 +10,8 @@ Social robots embody many different social behaviours which distinguish them fro
 <img style="padding-bottom:25px" src="/assets/img/history.gif"
      width = "400"/>
 
-<img style="padding-bottom:25px" src="/assets/img/test.gif"/>
+<img style="padding-bottom:25px" src="/assets/img/test.gif"
+     width = "400"/>
 
 # Poster
 <p style="text-align:center;">
