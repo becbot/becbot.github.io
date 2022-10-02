@@ -22,6 +22,7 @@ navbar-links:
   Projects:
   - CozmoNAOts: "cozmonaots"
   - STiRO: "stiro"
+  - PEERM: "https://initrobots.ca/peerm/"
   PsyBots: "https://psybots.github.io/" 
   CV: "cv"
   #Contact: "contact"
