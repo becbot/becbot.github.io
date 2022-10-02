@@ -25,6 +25,7 @@ navbar-links:
   - PEERM: "https://initrobots.ca/peerm/"
   PsyBots: "https://psybots.github.io/" 
   CV: "cv"
+  AFL: "afl"
   #Contact: "contact"
 
 
