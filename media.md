@@ -5,6 +5,13 @@ subtitle: Below you can watch some of the virtual talks I have given, as well as
 
 # Invited Talks
 
+### Embodied AI Talk Series: HRInterdisciplinary Research. A Psychologist’s Guide to Social Robotics
+
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lSY4GbcKxLc?start=203" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</p>
+
+
 ### PyLadies Hamburg: Robots and Psychology, where do they meet?
 
 <p style="text-align:center;">
