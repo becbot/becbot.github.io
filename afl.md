@@ -4,8 +4,9 @@ subtitle: When I'm not in the lab, I like to play Australian Football! I previou
 ---
 
 # Cambridge vs Stockholm
+Malmo, September 2022
 
-
+<img style="padding-bottom:25px" src="/assets/img/received_811068676597810.jpeg"/>
 
 # ANZAC Cup 2022
 
