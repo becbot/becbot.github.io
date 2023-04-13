@@ -7,7 +7,7 @@ subtitle: When I'm not in the lab, I like to play Australian Football! I previou
 ## March 4 2023, Paris, France
 
 <p style="text-align:center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VfS8MZN6Noc?start=8146" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" src="https://www.youtube.com/embed/VfS8MZN6Noc?start=8146" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </p>
 
   
