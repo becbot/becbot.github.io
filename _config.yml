@@ -17,7 +17,8 @@ navbar-links:
   Publications: "publications"
   Media: "media"
   Workshops:
-  - HRI'21: "https://child-robot-interaction.github.io/"
+  - HRI'23: "https://child-robot-interaction.github.io/"
+  - HRI'21: "https://child-robot-interaction.github.io/past_editions.html"
   - RO-MAN'21: "http://cs.umanitoba.ca/~umgeiskk/"
   Projects:
   - CozmoNAOts: "cozmonaots"
