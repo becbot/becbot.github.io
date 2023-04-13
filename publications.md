@@ -5,7 +5,9 @@ subtitle: Here you can find a selected list of some of my recent research public
 You can also find a complete list of publications on my <a href ="https://scholar.google.com/citations?user=KpeioBgAAAAJ&hl=en">Google Scholar Page</a>
 
 # Journal Articles
-Boucher, C., **Stower, R.**, Varadharajan, VS, Zibetti, E., Levillain, F. & St-Onge, D. (2023). Motion-based communication for robotic swarms in exploration missions. In *Autonomous Robots*. <a href="https://espace2.etsmtl.ca/id/eprint/25885/"></a>
+**Stower, R.**, Abdelghani, R., Tschopp, M., Evangelista, K., Chetouani, M., & Kappas, A. (2022). Exploring space for robot mistakes in child robot interactions. Interaction Studies, 23(2), 243-288. <a href="https://www.jbe-platform.com/content/journals/10.1075/is.21034.sto">10.1075/is.21034.sto</a>
+
+Boucher, C., **Stower, R.**, Varadharajan, VS, Zibetti, E., Levillain, F. & St-Onge, D. (2023). Motion-based communication for robotic swarms in exploration missions. In *Autonomous Robots*. <a href="https://espace2.etsmtl.ca/id/eprint/25885/">10.1007/s10514-022-10079-0</a>
 
 Rudaz, D., Tatarian, K., **Stower, R.**, & Licoppe, C. (2023). From Inanimate Object to Agent: Impact of Pre-Beginnings on the Emergence of Greetings with a Robot. In *ACM Transactions on Human-Robot Interaction*. <a href="https://doi.org/10.1145/3575806">10.1145/3575806</a>
 
