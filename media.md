@@ -4,6 +4,9 @@ subtitle: Below you can watch some of the virtual talks I have given, as well as
 ---
 
 # Invited Talks
+### TECoSA Seminar Series: Robots Gone Wrong: The role of failure in human-robot interactions
+Stockholm, February 2023
+
 
 ### Embodied AI Talk Series: HRInterdisciplinary Research. A Psychologist’s Guide to Social Robotics
 Utrecht, September 2022
