@@ -5,7 +5,7 @@ subtitle: Here you can find a selected list of some of my recent research public
 You can also find a complete list of publications on my <a href ="https://scholar.google.com/citations?user=KpeioBgAAAAJ&hl=en">Google Scholar Page</a>
 
 # Journal Articles
-**Stower, R.**, Abdelghani, R., Tschopp, M., Evangelista, K., Chetouani, M., & Kappas, A. (2022). Exploring space for robot mistakes in child robot interactions. Interaction Studies, 23(2), 243-288. <a href="[https://osf.io/4dn6v]">10.1075/is.21034.sto</a>
+**Stower, R.**, Abdelghani, R., Tschopp, M., Evangelista, K., Chetouani, M., & Kappas, A. (2022). Exploring space for robot mistakes in child robot interactions. Interaction Studies, 23(2), 243-288. <a href="https://osf.io/4dn6v">10.1075/is.21034.sto</a>
 
 Boucher, C., **Stower, R.**, Varadharajan, VS, Zibetti, E., Levillain, F. & St-Onge, D. (2023). Motion-based communication for robotic swarms in exploration missions. In *Autonomous Robots*. <a href="https://espace2.etsmtl.ca/id/eprint/25885/">10.1007/s10514-022-10079-0</a>
 
