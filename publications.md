@@ -7,6 +7,8 @@ You can also find a complete list of publications on my <a href ="https://schola
 # Journal Articles
 **Stower, R.**, Abdelghani, R., Tschopp, M., Evangelista, K., Chetouani, M., & Kappas, A. (2022). Exploring space for robot mistakes in child robot interactions. Interaction Studies, 23(2), 243-288. <a href="https://osf.io/4dn6v">10.1075/is.21034.sto</a>
 
+Morillo-Mendez, L., **Stower, R.**, Sleat, A., Schreiter, T., Leite, I., Mozos, O. M., & Schrooten, M. G. (2023). Can the robot “see” what I see? Robot gaze drives attention depending on mental state attribution. In *Frontiers in Psychology*. <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10374202/">10.3389/fpsyg.2023.1215771</a>
+
 Boucher, C., **Stower, R.**, Varadharajan, VS, Zibetti, E., Levillain, F. & St-Onge, D. (2023). Motion-based communication for robotic swarms in exploration missions. In *Autonomous Robots*. <a href="https://espace2.etsmtl.ca/id/eprint/25885/">10.1007/s10514-022-10079-0</a>
 
 Rudaz, D., Tatarian, K., **Stower, R.**, & Licoppe, C. (2023). From Inanimate Object to Agent: Impact of Pre-Beginnings on the Emergence of Greetings with a Robot. In *ACM Transactions on Human-Robot Interaction*. <a href="https://doi.org/10.1145/3575806">10.1145/3575806</a>
@@ -17,6 +19,10 @@ Tatarian, K., **Stower, R.**, Rudaz, D., Chamoux, M., Kappas, A., & Chetouani, M
 <br> \* Both authors contributed equally
 
 # Peer-Reviewed Conference Proceedings
+Wozniak, M. K.*, **Stower, R.***, Jensfelt, P., & Pereira, A. (2023). Happily Error After: Framework Development and User Study for Correcting Robot Perception Errors in Virtual Reality. Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN), Busan, Republic of Korea (pp. 1573-1580). <a href="https://ieeexplore.ieee.org/document/10309446">10.1109/RO-MAN57019.2023.10309446</a>
+
+Melsion, G. I.*, **Stower, R.***, Winkle, K., & Leite, I (2023) What’s at Stake? Robot explanations matter for high but not low-stake scenarios. In *Proceedings of the 32nd IEEE International Conference on Robot and Human Interactive Communication (RO-MAN)*, Busan, Republic of Korea (pp. 2421-2426). <a href="https://ieeexplore.ieee.org/document/10309566">10.1109/RO-MAN57019.2023.10309566</a>
+
 Wozniak, MK., **Stower, R.**, Jensfelt, P., Pereira, A. (2023). What you see is (not) what you get: A VR Framework for Correcting Robot Errors. In *Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction* Late Breaking Reports. <a href="https://arxiv.org/abs/2301.04919">10.48550/arXiv.2301.04919</a>
 
 **Stower, R.**, Tatarian, K., Rudaz, D., Chamoux, M., Chetouani, M., & Kappas, A. (2022). Does What Users Say Match What They Do? Comparing Self-Reported Attitudes and Behaviours towards a Social Robot. In *Proceedings of the 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN 2022)*. <a href="https://ieeexplore.ieee.org/abstract/document/9900782">10.1109/RO-MAN53752.2022.9900782</a>
