@@ -21,12 +21,15 @@ navbar-links:
   - HRI'21: "https://child-robot-interaction.github.io/past_editions.html"
   - RO-MAN'21: "http://cs.umanitoba.ca/~umgeiskk/"
   Projects:
-  - CozmoNAOts: "cozmonaots"
-  - STiRO: "stiro"
-  - PEERM: "https://initrobots.ca/peerm/"
-  PsyBots: "https://psybots.github.io/" 
+  - Current: "current"
+  - Past:
+    - CozmoNAOts: "cozmonaots"
+    - STiRO: "stiro"
+    - PEERM: "https://initrobots.ca/peerm/"
   CV: "cv"
-  AFL: "afl"
+  Sport: 
+  - "climbing
+  - "afl"
   #Contact: "contact"
 
 
