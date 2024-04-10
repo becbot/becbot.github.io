@@ -1,9 +1,16 @@
 ---
 title: Media Engagments
-subtitle: Below you can watch some of the virtual talks I have given, as well as other media involvement
+subtitle: Below are some of the talks I have given, as well as other media involvement
 ---
 
 # Invited Talks
+
+###  ScientiFika: Keep your friends close and your robots closer: the psychology of human robot interaction
+Stockholm, April 2024
+    
+### INESC-ID,  Instituto Superior Técnico: Happily Error After: The Role of Failure in Shaping Human-Robot Interactions
+Lisbon, June 2023
+
 ### TECoSA Seminar Series: Robots Gone Wrong: The role of failure in human-robot interactions
 Stockholm, February 2023
 
