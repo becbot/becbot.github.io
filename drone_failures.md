@@ -13,7 +13,7 @@ So far, research on drone failures has been mostly limited to understanding the 
 
 # Poster
 <p style="text-align:center;">
-<iframe src="https://drive.google.com/file/d/19Dkn16qQ48KtGGrRwVxxbAXpK6k_KYaJ/preview"</iframe>
+<iframe src="https://drive.google.com/file/d/19Dkn16qQ48KtGGrRwVxxbAXpK6k_KYaJ/preview"width="640" height="480" allow="autoplay"></iframe>
 </p>
 
 # Study Materials
