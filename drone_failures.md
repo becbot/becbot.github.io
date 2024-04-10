@@ -1,7 +1,9 @@
 ---
 title: Drone Fail Me Now: How Drone Failures Affect Trust and Risk-Taking Decisions
-subtitle: Noah Rahimzadagan, Matti Vahs, Iolanda Leite & Rebecca Stower
+subtitle: 
 ---
+
+### Noah Rahimzadagan, Matti Vahs, Iolanda Leite & Rebecca Stower
 
 Read the full late-breaking report <a href="https://dl.acm.org/doi/abs/10.1145/3610978.3640609">here!</a> (honorable mention for best late-breaking report at HRI2024)
 
