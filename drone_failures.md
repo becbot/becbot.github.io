@@ -1,5 +1,5 @@
 ---
-title: Drone Fail Me Now: How Drone Failures Affect Trust and Risk-Taking Decisions
+title: Drone Fail Me Now How Drone Failures Affect Trust and Risk-Taking Decisions
 subtitle: 
 ---
 ### Noah Rahimzadagan, Matti Vahs, Iolanda Leite & Rebecca Stower
