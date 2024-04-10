@@ -29,8 +29,8 @@ navbar-links:
     - PEERM: "https://initrobots.ca/peerm/"
   CV: "cv"
   Sport: 
-  - "climbing"
-  - "afl"
+  - Climbing: "climbing"
+  - AFL: "afl"
   #Contact: "contact"
 
 
