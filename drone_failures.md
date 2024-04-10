@@ -4,6 +4,7 @@ subtitle:
 ---
 ### Noah Rahimzadagan, Matti Vahs, Iolanda Leite & Rebecca Stower
 
+
 Read the full late-breaking report <a href="https://dl.acm.org/doi/abs/10.1145/3610978.3640609">here!</a> (honorable mention for best late-breaking report at HRI2024)
 
 # Abstract
@@ -12,7 +13,7 @@ So far, research on drone failures has been mostly limited to understanding the 
 
 # Poster
 <p style="text-align:center;">
-<iframe src="https://drive.google.com/file/d/19Dkn16qQ48KtGGrRwVxxbAXpK6k_KYaJ/preview"width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/19Dkn16qQ48KtGGrRwVxxbAXpK6k_KYaJ/preview" width="640" height="480" allow="autoplay"></iframe>
 </p>
 
 # Study Materials
