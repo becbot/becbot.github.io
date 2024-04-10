@@ -20,7 +20,9 @@ navbar-links:
   - HRI'23: "https://child-robot-interaction.github.io/"
   - HRI'21: "https://child-robot-interaction.github.io/past_editions.html"
   - RO-MAN'21: "http://cs.umanitoba.ca/~umgeiskk/"
-  Current Projects: "current"
+  Current Projects:
+    - Responsible HRI: "https://responsiblehri.github.io/"
+    - Drone Fail Me Now: "drone_failures"
   Past Projects:
     - CozmoNAOts: "cozmonaots"
     - STiRO: "stiro"
