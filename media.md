@@ -5,6 +5,15 @@ subtitle: Below are some of the talks I have given, as well as other media invol
 
 # Invited Talks
 
+### TEDxKTH Salon: Facets of AI – Exploring the Various Uses of AI in Research
+Stockholm, May 2024
+
+Nobody’s perfect, not even your robot: Understanding and resolving failures in human-robot interaction
+
+<p style="text-align:center;">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/idqwSfLX-44?si=c7dsYLzAdgQEgymD&amp;start=6110" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+
 ###  ScientiFika: Keep your friends close and your robots closer: the psychology of human robot interaction
 Stockholm, April 2024
     
